@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Axel
-- 👀 I’m interested in learning new things!
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in growing my coding knowledge.
 - 🌱 I’m currently learning full stack coding through uw coding bootcamp
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/alex-hickey-935b3318b/)
 
 <!---
 Axelpanic/Axelpanic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
